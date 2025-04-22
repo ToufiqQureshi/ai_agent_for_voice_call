@@ -1,0 +1,7 @@
+streamlit
+vocode
+openai
+pydantic-settings
+langchain
+langchain-community
+langchain-core
